@@ -1,0 +1,32 @@
+{
+    "id": "EE9EAE16",
+    "path": null,
+    "project_path": null,
+    "type": "r_dataframe",
+    "hash": "0",
+    "contents": "",
+    "dirty": false,
+    "created": 1601031578929.0,
+    "source_on_save": false,
+    "relative_order": 2,
+    "properties": {
+        "expression": "fm_surv",
+        "caption": "fm_surv",
+        "totalObservations": "423",
+        "displayedObservations": "423",
+        "variables": "12",
+        "cacheKey": "2F643AB7",
+        "object": "fm_surv",
+        "environment": "",
+        "contentUrl": "grid_resource/gridviewer.html?env=&obj=fm_surv&cache_key=2F643AB7&max_cols=50",
+        "preview": "0"
+    },
+    "folds": "",
+    "lastKnownWriteTime": 8389754706581218082,
+    "encoding": "",
+    "collab_server": "",
+    "source_window": "",
+    "last_content_update": 1601031578929,
+    "read_only": false,
+    "read_only_alternatives": []
+}
