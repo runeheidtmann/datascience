@@ -81,7 +81,7 @@ public class Arrays{
             if(!firstNumber){
                 arrayAsString = arrayAsString + ", ";
             }
-            arrayAsString = arrayAsString + Integer.toString(number);
+            arrayAsString = arrayAsString + number;
             firstNumber = false;
         }
         arrayAsString = arrayAsString + "]";
@@ -154,13 +154,28 @@ public class Arrays{
 
     public static boolean subset(int[] v, int[] w){
         
+        boolean isMember = false;
+
+        for(int numV : v){
+            for(int numW : w){
+                if(numV == numW){
+                    isMember = true;
+                    break;
+                }
+                isMember = false;
+            }
+            if(!isMember)
+                return false;
+        }
+        return true;
     }
 
 
     public static void main(String[] args){
     
-        double[] doubles = {8.2,2.5,0,4.3,4,15.1,160,1,151};
+        int[] v = {8,2,0,2};
+        int[] w = {8,2,0,4,4,15,160,1,151};
         int n = 16;
-        System.out.print(max(doubles));
+        System.out.print(toString(v));
     }
 }

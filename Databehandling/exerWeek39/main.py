@@ -1,4 +1,3 @@
-# -*- coding: utf-8 -*-
 import json
 file = open('dbl.json')
 dbl = json.load(file)
@@ -117,12 +116,16 @@ def occupations(persons_list,o_list):
     
     return result_list
 
-def occupation_stats(persons_list):
-    pass
+
+def lonName(persons):
+    longest = "";
+    for person in persons:
+        if len(person['name']) > len(longest):
+            longest = person['name']
+    
+    return longest
         
     
 #Testkoden:
 
-occupa = occupations(dbl,["painter","poet"])
-for person in occupa:
-    print(person['name']+" "+str(person['o'])+"\n")
+print(lonName(dbl))
