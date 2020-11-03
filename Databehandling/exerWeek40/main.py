@@ -1,6 +1,6 @@
 # This is a question-based-game, that we developed in class.
 # It did this by my self.
-
+import csv
 import random
 f = open("questions.txt","r+")
 
@@ -19,8 +19,14 @@ def addQuestion(question, answers, correct):
     questions.append(new_question)
     
 def storeQuestion(question, answers, correct):
-    pass
     
+    with open('userquestion.csv', 'a', newline='') as csvfile:
+        
+        qwriter = csv.writer(csvfile)
+        q = question + "\t" + answers[0] + "\t" + answers[1] + "\t" + answers[2] + "\t" + answers[3] + "\t" + str(correct)
+        qwriter.writerow([q])
+                          
+                          
 def loadQuestions(file):
     all_questions = file.read()
     questions_as_list = all_questions.splitlines()
@@ -89,4 +95,8 @@ def play(n):
     printMessage(score,n)
     
 
-play(2)
+
+storeQuestion("question", ["answers1","answers2","answers3","answers4"], 2)
+
+
+
