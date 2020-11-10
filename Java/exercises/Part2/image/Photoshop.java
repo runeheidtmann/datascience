@@ -11,11 +11,8 @@ public class Photoshop{
         int green = img.green(0,0);
         int blue = img.blue(0,0);
  
-        Image newimg = util.rotateRight(img);
-         Image dickimg = util.rotateRight(newimg);
-
+        Image newimg = util.switchGreenBlue(img);
        
-        dickimg.display();
-           
+        newimg.display();
     }
 }
