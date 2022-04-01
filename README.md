@@ -11,4 +11,4 @@ this is the very first survey into how to get from a dataset of coordinates down
 Demonstration: https://youtu.be/IIEznpPxKdE
 
 ## CNN Style transfer
-Passion project: Learn how to copy style, so that we can apply techniques to robot-painting.
+Passion project: Learn how to copy style, so that we can apply techniques to robot-painting (Most code from internet).
