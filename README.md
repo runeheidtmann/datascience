@@ -8,7 +8,8 @@ One solution is to have a conditional tree, that writes certain sentences when c
 ## Make a robot draw 3d on 2d surface.
 Passion projekt: I am very interested in generative art. The art of making algorithms do art. For this i have purchased a small robot arm, and
 this is the very first survey into how to get from a dataset of coordinates down on to physical paper.
-Demonstration: https://youtu.be/IIEznpPxKdE
+<b>Demonstration of my robot:</b>
+<iframe width="1280" height="720" src="https://www.youtube.com/embed/IIEznpPxKdE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## CNN Style transfer
 Passion project: Learn how to copy style, so that we can apply techniques to robot-painting (Most code from internet).
