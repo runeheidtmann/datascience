@@ -12,3 +12,4 @@ Demonstration: https://youtu.be/IIEznpPxKdE
 
 ## CNN Style transfer
 Passion project: Learn how to copy style, so that we can apply techniques to robot-painting (Most code from internet).
+<img src="skull-lady.png" align="left" />
