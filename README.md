@@ -9,7 +9,8 @@ One solution is to have a conditional tree, that writes certain sentences when c
 Passion projekt: I am very interested in generative art. The art of making algorithms do art. For this i have purchased a small robot arm, and
 this is the very first survey into how to get from a dataset of coordinates down on to physical paper.
 <b>Demonstration of my robot:</b>
-<iframe width="1280" height="720" src="https://www.youtube.com/embed/IIEznpPxKdE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+[![IMAGE ALT TEXT](http://img.youtube.com/vi/IIEznpPxKdE/0.jpg)](http://www.youtube.com/watch?v=IIEznpPxKdE "Video Title")
 
 ## CNN Style transfer
 Passion project: Learn how to copy style, so that we can apply techniques to robot-painting (Most code from internet).
