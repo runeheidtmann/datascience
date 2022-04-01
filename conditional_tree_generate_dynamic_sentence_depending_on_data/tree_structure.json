@@ -1,0 +1,38 @@
+[{
+        "id": 1,
+        "parent_id": null,
+        "condition": null,
+        "text": "",
+        "children": [{
+                "id": 4,
+                "parent_id": 1,
+                "condition": "{runes_skills} >= 0 and {runes_skills}<100",
+                "text": "We are assesing Runes programming skills, and we can say that they are between 0 and 100 for sure. ",
+                "children": []
+            },
+            {
+                "id": 5,
+                "parent_id": 1,
+                "condition": "{runes_skills}>100",
+                "text": "Runes programming skills are ",
+                "children": [{
+                        "id": 9,
+                        "parent_id": 5,
+                        "condition": "{runes_skills}>100 and {runes_skills}<500",
+                        "text": "between 100 and 500",
+                        "children": []
+                    },
+                    {
+                        "id": 10,
+                        "parent_id": 5,
+                        "condition": "{runes_skills}>=500 and {runes_skills}<1000",
+                        "text": "through the roof with scores between 500 and 1000!",
+                        "children": []
+                    }
+                ]
+            }
+          
+        ]
+    }
+    
+]
