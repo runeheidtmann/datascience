@@ -6,8 +6,8 @@ Work project: Survey into how we can make a dynamic system for generating news a
 One solution is to have a conditional tree, that writes certain sentences when certain conditions are fullfilled.
 
 ## Make a robot draw 3d on 2d surface.
-Passion projekt: I am very interested in generative art. The art of making algorithms do art.
-This is a very first survey into how to get from a dataset of coordinates down on to physical paper.
+Passion projekt: I am very interested in generative art. The art of making algorithms do art. For this i have purchased a small robot arm, and
+this is the very first survey into how to get from a dataset of coordinates down on to physical paper.
 Demonstraion: https://youtu.be/IIEznpPxKdE
 
 ## CNN Style transfer
