@@ -89,7 +89,7 @@ def build_tree(js):
 
 
 
-article_data = {'runes_skills': 501}
+article_data = {'runes_skills': 499}
 
 
 with open("tree_structure.json", "r") as tree:
