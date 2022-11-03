@@ -5,8 +5,7 @@
 ![image](https://user-images.githubusercontent.com/37456552/199712622-eeb8dd05-92cf-4865-92be-3540d69162e1.png)
 
 
-## conditional_tree_generate _dynamic_sentence_depending_on_data <br />
-Dynamic news article generated with conditional tree
+## conditional_tree_generate _dynamic_sentence_depending_on_data <br /> Dynamic news article generated with conditional tree
 <b>Work project:</b> Survey into how we can make a dynamic system for generating news articles from data.
 One solution is to have a conditional tree, that writes certain sentences when certain conditions are fullfilled. Demonstrates techniques/algorithms to build and traverse tree-structures in an efficent manner.
 
