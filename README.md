@@ -3,7 +3,7 @@
 ## cnn-transferlearning-exam:<br /> Use convolutional neural network and transfer learning to categorize historical images. 
 <b>School project:</b> Worked with a dataset of pictures of old handwritten dates e.g. 1857. Task was to build a classifier-model to read/predict dates from new pictures. 
 
-## conditional_tree_generate_dynamic_sentence_depending_on_data <br />
+## conditional_tree_generate _dynamic_sentence_depending_on_data <br />
 Dynamic news article generated with conditional tree
 <b>Work project:</b> Survey into how we can make a dynamic system for generating news articles from data.
 One solution is to have a conditional tree, that writes certain sentences when certain conditions are fullfilled. Demonstrates techniques/algorithms to build and traverse tree-structures in an efficent manner.
