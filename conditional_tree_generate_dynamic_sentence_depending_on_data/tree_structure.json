@@ -19,7 +19,7 @@
                         "id": 9,
                         "parent_id": 5,
                         "condition": "{runes_skills}>100 and {runes_skills}<500",
-                        "text": "between 100 and 500",
+                        "text": "between 100 and 500", 
                         "children": []
                     },
                     {
