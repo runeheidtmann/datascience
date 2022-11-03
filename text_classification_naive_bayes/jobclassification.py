@@ -59,46 +59,6 @@ df['clean_title'] = df['clean_title'].map(remove_stop_words)
 
 corpus = " ".join(df['clean_title'].tolist())
 tokens = corpus.split()
-# fd = nltk.FreqDist(tokens)
-# top_words = []
-# for key, value in fd.items():
-#     top_words.append((key, value))
-
-
-# # sort the list by the top frequencies
-# top_words = sorted(top_words, key = lambda x:x[1], reverse = True)
-
-# # keep top 100 words only
-# top_words = top_words[:100]
-
-# top_word_series = pd.Series([w for (v,w) in top_words])
-# top_word_series[:5]
-# # get actual ranks of these words - wherever we see same frequencies, we give same rank
-# word_ranks = top_word_series.rank(method = 'min', ascending = False)
-
-
-# denominator = max(word_ranks)*min(top_word_series)
-
-# # Y variable is the log of word ranks and X is the word frequency divided by the denominator
-# # above
-# Y = np.array(np.log(word_ranks))
-# X = np.array(np.log(top_word_series/denominator))
-
-# # fit a linear regression to these, we dont need the intercept!
-# from sklearn import linear_model
-# reg_model = linear_model.LinearRegression(fit_intercept = False)
-# reg_model.fit(Y.reshape(-1,1), X)
-# print("The value of theta obtained is:",reg_model.coef_)
-
-# # make a plot of actual rank obtained vs theoretical rank expected
-# plt.figure(figsize = (8,5))
-# plt.scatter(Y, X, label = "Actual Rank vs Frequency")
-# plt.title('Log(Rank) vs Log(Frequency/nx(n))')
-# plt.xlabel('Log Rank')
-# plt.ylabel('Log(Frequency/nx(n))')
-
-# plt.plot(reg_model.predict(X.reshape(-1,1)), X, color = 'red', label = "Zipf's law")
-# plt.legend()
 
 X = np.array(df.loc[:, 'clean_title'])
 y = np.array(df.loc[:, 'job_category'])
