@@ -1,7 +1,9 @@
 ## Each folder represents a project
 
 ## cnn-transferlearning-exam:<br /> Use convolutional neural network and transfer learning to categorize historical images. 
-<b>School project:</b> Worked with a dataset of pictures of old handwritten dates e.g. 1857. Task was to build a classifier-model to read/predict dates from new pictures. 
+<b>School project:</b> Worked with a dataset of pictures of old handwritten dates e.g. 1857. Task was to build a classifier-model to read/predict dates from new pictures.
+![image](https://user-images.githubusercontent.com/37456552/199712622-eeb8dd05-92cf-4865-92be-3540d69162e1.png)
+
 
 ## conditional_tree_generate _dynamic_sentence_depending_on_data <br />
 Dynamic news article generated with conditional tree
