@@ -1,3 +1,5 @@
+##Each folder represents a project
+
 ## Map: cnn-transferlearning-exam: Use convolutional neural network and transfer learning to categorize historical images. 
 <b>School project:</b> As exam project worked with a dataset of pictures of old handwritten dates. Task was to build a classifier-model to read/predict dates from new pictures.
 
