@@ -8,7 +8,7 @@ Dynamic news article generated with conditional tree
 <b>Work project:</b> Survey into how we can make a dynamic system for generating news articles from data.
 One solution is to have a conditional tree, that writes certain sentences when certain conditions are fullfilled. Demonstrates techniques/algorithms to build and traverse tree-structures in an efficent manner.
 
-## robot-art <b />
+## robot-art <br />
 Make a robot draw 3d on 2d surface.
 <b>Passion projekt:</b> I am very interested in generative art. The art of making algorithms do art. For this i have purchased a small robot arm, and
 this is the very first survey into how to get from a dataset of coordinates down on to physical paper.
