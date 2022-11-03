@@ -1,0 +1,132 @@
+vams;vamsen;sb.
+vams;vamsens;sb.
+vams;vams';sb.
+vams;vamsene;sb.
+vams;vamsenes;sb.
+vams;vamse;sb.
+vams;vamses;sb.
+vamset;vamset;adj.
+vamset;vamsede;adj.
+1. van;van;sb.
+1. van;vanen;sb.
+1. van;vanens;sb.
+1. van;vans;sb.
+1. van;vanerne;sb.
+1. van;vanernes;sb.
+1. van;vaner;sb.
+1. van;vaners;sb.
+2. van;van;
+vanadium;vanadium;sb.
+vanadium;vanadiummet;sb.
+vanadium;vanadiummets;sb.
+vanadium;vanadiums;sb.
+vanartet;vanartet;adj.
+vanartet;vanartede;adj.
+1. vand;vand;sb.
+1. vand;vandet;sb.
+1. vand;vandets;sb.
+1. vand;vands;sb.
+2. vand;vand;sb.
+2. vand;vandet;sb.
+2. vand;vandets;sb.
+2. vand;vands;sb.
+2. vand;vandene;sb.
+2. vand;vandenes;sb.
+2. vand;vande;sb.
+2. vand;vandes;sb.
+3. vand;vand;sb.
+3. vand;vanden;sb.
+3. vand;vandens;sb.
+3. vand;vands;sb.
+3. vand;vandene;sb.
+3. vand;vanderne;sb.
+3. vand;vandenes;sb.
+3. vand;vandernes;sb.
+3. vand;vander;sb.
+3. vand;vand;sb.
+3. vand;vanders;sb.
+3. vand;vands;sb.
+vandafvisende;vandafvisende;ubøj. adj.
+vandagtig;vandagtig;adj.
+vandagtig;vandagtige;adj.
+vandagtig;vandagtigt;adj.
+vandaks;vandaks;sb.
+vandaks;vandaksen;sb.
+vandaks;vandaksens;sb.
+vandaks;vandaks';sb.
+vandaks;vandaksene;sb.
+vandaks;vandaksenes;sb.
+vandaks;vandaks;sb.
+vandaks;vandaks';sb.
+vandal;vandal;sb.
+vandal;vandalen;sb.
+vandal;vandalens;sb.
+vandal;vandals;sb.
+vandal;vandalerne;sb.
+vandal;vandalernes;sb.
+vandal;vandaler;sb.
+vandal;vandalers;sb.
+vandalisere;vandalisere;vb.
+vandalisere;vandaliser;vb.
+vandalisere;vandaliseret;vb.
+vandalisere;vandaliserer;vb.
+vandalisere;vandaliserende;vb.
+vandalisere;vandaliserede;vb.
+vandalisere;vandaliseres;vb.
+vandalisere;vandaliseredes;vb.
+vandalisering;vandalisering;sb.
+vandalisering;vandaliseringen;sb.
+vandalisering;vandaliseringens;sb.
+vandalisering;vandaliserings;sb.
+vandalisering;vandaliseringerne;sb.
+vandalisering;vandaliseringernes;sb.
+vandalisering;vandaliseringer;sb.
+vandalisering;vandaliseringers;sb.
+vandalisme;vandalisme;sb.
+vandalisme;vandalismen;sb.
+vandalisme;vandalismens;sb.
+vandalisme;vandalismes;sb.
+vandalisme;vandalismerne;sb.
+vandalisme;vandalismernes;sb.
+vandalisme;vandalismer;sb.
+vandalisme;vandalismers;sb.
+vandalsk;vandalsk;adj.
+vandalsk;vandalske;adj.
+vandbad;vandbad;sb.
+vandbad;vandbadet;sb.
+vandbad;vandbadets;sb.
+vandbad;vandbads;sb.
+vandbad;vandbadene;sb.
+vandbad;vandbadenes;sb.
+vandbad;vandbade;sb.
+vandbad;vandbades;sb.
+vandbakkelse;vandbakkelse;sb.
+vandbakkelse;vandbakkelsen;sb.
+vandbakkelse;vandbakkelsens;sb.
+vandbakkelse;vandbakkelses;sb.
+vandbakkelse;vandbakkelserne;sb.
+vandbakkelse;vandbakkelsernes;sb.
+vandbakkelse;vandbakkelser;sb.
+vandbakkelse;vandbakkelsers;sb.
+vandballon;vandballon;sb.
+vandballon;vandballonen;sb.
+vandballon;vandballonens;sb.
+vandballon;vandballons;sb.
+vandballon;vandballonerne;sb.
+vandballon;vandballonernes;sb.
+vandballon;vandballoner;sb.
+vandballon;vandballoners;sb.
+vandbaseret;vandbaseret;adj.
+vandbaseret;vandbaserede;adj.
+vandbygning;vandbygning;sb.
+vandbygning;vandbygningen;sb.
+vandbygning;vandbygningens;sb.
+vandbygning;vandbygnings;sb.
+vandbygning;vandbygningerne;sb.
+vandbygning;vandbygningernes;sb.
+vandbygning;vandbygninger;sb.
+vandbygning;vandbygningers;sb.
+vandbærer;vandbærer;sb.
+vandbærer;vandbæreren;sb.
+vandbærer;vandbærerens;sb.
+vandbærer;vandbærers;sb.
