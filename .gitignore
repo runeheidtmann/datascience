@@ -4,3 +4,6 @@
 /text_classification_naive_bayes/final_jobdata.csv
 /.vscode
 /.ipynb_checkpoints
+/text_classification_naive_bayes/jobclassification.py
+/text_classification_naive_bayes/test.py
+/text_classification_naive_bayes/fuldformer.txt
