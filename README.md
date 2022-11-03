@@ -18,7 +18,7 @@ https://www.youtube.com/watch?v=IIEznpPxKdE
 [![IMAGE ALT TEXT](http://img.youtube.com/vi/IIEznpPxKdE/0.jpg)](http://www.youtube.com/watch?v=IIEznpPxKdE "Video Title")
 
 ## text_classification_naive_bayes <br />
-b>Passion projekt:</b> Scraped danish job adds from  danish job sites. I saved the headlines and the job category. Example "ML-engineer søges til spændende startup" -> "IT". Thereafter i used the data to train a bayesian model to predict the jobcategory from an unknown job add headline.
+<b>Passion projekt:</b> Scraped danish job adds from  danish job sites. I saved the headlines and the job category. Example "ML-engineer søges til spændende startup" -> "IT". Thereafter i used the data to train a bayesian model to predict the jobcategory from an unknown job add headline.
 
 
 ## CNN Style transfer
